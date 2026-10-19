@@ -1,0 +1,11 @@
+data/*.gz
+data/GPL96_platform_full.txt
+laporan/*.aux
+laporan/*.log
+laporan/*.out
+laporan/*.toc
+__pycache__/
+*.pyc
+.venv/
+analisis/output/
+laporan/

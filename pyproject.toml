@@ -1,0 +1,20 @@
+[project]
+name = "uts-sains-data-genom-dcm"
+version = "1.0.0"
+description = "UTS Sains Data Genom: analisis diferensial ekspresi gen, Gene Ontology, dan clustering pada kardiomiopati dilatasi (GSE5406 dan GSE116250)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gseapy>=1.1.0",
+    "ipykernel>=7.3.0",
+    "jupytext>=1.16.0",
+    "matplotlib>=3.11.2",
+    "nbconvert>=7.16.0",
+    "numpy>=2.5.0",
+    "pandas>=3.0.0",
+    "requests>=2.34.0",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.18.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.15.0",
+]
